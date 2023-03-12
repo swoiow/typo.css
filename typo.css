@@ -1,9 +1,9 @@
 @charset "utf-8";
-@font-face {
+/* @font-face {
     font-family: "JetBrainsMono";
     src: url("//cdn.jsdelivr.net/gh/JetBrains/JetBrainsMono@master/fonts/webfonts/JetBrainsMono-LightItalic.woff2") format("woff2");
     font-display: swap;
-}
+} */
 
 /* 防止用户自定义背景颜色对网页的影响，添加让用户可以自定义字体 */
 html {
