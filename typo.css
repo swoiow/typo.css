@@ -178,7 +178,7 @@ mark {
 
 /* 代码片断 */
 pre, code, pre tt {
-    font-family: JetBrainsMono, Courier, 'Courier New', monospace;
+    font-family: 'JetBrains Mono', Courier, 'Courier New', monospace;
 }
 
 pre {
